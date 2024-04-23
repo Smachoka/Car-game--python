@@ -1,0 +1,8 @@
+This is simple car Game using while loops, bool, if , else if, == ,!= 
+> in the command you are required to type start, stop, help or quit
+start- the car starts
+stop - the car stops
+quit - you quit the game 
+help- you're given game instructions 
+if type start or stop again the program will yell at you the car is already started or has stopped
+and if you type something else, the program yells at you.
